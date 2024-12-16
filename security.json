@@ -1,0 +1,6 @@
+{
+  "apiKey": "201",
+  "secretKey": "201",
+  "token": "p",
+  "expiredTime": 3600 // waktu kadaluarsa dalam detik
+}
