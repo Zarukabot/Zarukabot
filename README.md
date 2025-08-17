@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x300/222/fff?text=ZRX+API+Documentation" alt="banner"/>
+  <img src="https://files.catbox.moe/6eshb1.jpg" alt="banner"/>
 </p>
 
 ---
